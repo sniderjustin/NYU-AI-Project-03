@@ -1,6 +1,0 @@
-#!/bin/sh
-
-set -e
-cd $(dirname "$0")/..
-
-docker run -it --network=host -v $(pwd):/src/function-parser function-parser bash

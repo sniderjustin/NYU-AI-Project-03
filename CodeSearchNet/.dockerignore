@@ -1,7 +1,0 @@
-*.csv
-*.pkl
-*.hdf5
-resources/
-!resources/README.md
-!tests/data/
-

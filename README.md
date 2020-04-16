@@ -28,6 +28,66 @@ First, create a login using your Google or GitHub account. You will get $10 free
 
 
 
+![firstPage](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/003.png?raw=true)
+
+
+
+![secondPage](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/004.png?raw=true)
+
+
+
+![addCard](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/005_add_card.png?raw=true)
+
+
+
+![subscription](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/005_Update_Subscription.png?raw=true)
+
+
+
+![upgrade](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/006_Upgrade_to_G1.png?raw=true)
+
+
+
+![console](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/007_click_home_to_console.png?raw=true)
+
+
+
+![clickCore](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/008_click_core.png?raw=true)
+
+
+
+![newMachine](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/009_New_Machine.png?raw=true)
+
+
+
+![selectRegion](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/010_Select_region.png?raw=true)
+
+
+
+![selectOS](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/011_Choose_OS_ML.png?raw=true)
+
+
+
+![applyForGPU](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/012_0_ApplyforGPU.png?raw=true)
+
+
+
+![chooseMachine](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/012_ChooseMachineP4000.png?raw=true)
+
+
+
+![ChooseStorage100](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/013_ChooseStorage100GB.png?raw=true)
+
+
+
+![defaults](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/014_LeaveDefaults.png?raw=true)
+
+
+
+![createPaperspace](https://github.com/aobject/NYU-AI-Project-03/blob/master/media/015_CreatePaperspace.png?raw=true)
+
+
+
 Check out our new GPU: 
 
 **INPUT**
@@ -195,5 +255,7 @@ Sending build context to Docker daemon  31.36MB
 Step 1/5 : FROM python:3.7.3
 3.7.3: Pulling from library/python
 6f2f362378c5: Pull complete 
+...
+still downloading blah blah blah
 ...
 ```

@@ -1,6 +1,6 @@
 
 
-# NYU // AI // Project 03 // CodeSearchNet
+# NYU // AI // Project 03 // CodeSearchNet Setup Guide
 
 Machine learning is often a computation heavy exercise. To take advantage of large datasets, deep learning, and to take full advantage of the best contemporary frameworks such as TensorFlow you need to have a machine with a great GPU.
 
